@@ -1,4 +1,4 @@
-// Ejercicio propuesto #7
+// Ejercicio resuelto #7
 
 import java.util.Scanner;
 public class Ejercicio {
